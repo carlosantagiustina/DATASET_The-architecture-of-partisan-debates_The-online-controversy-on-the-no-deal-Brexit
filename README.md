@@ -1,4 +1,4 @@
-# DATASET: The architecture of partisan debates: The online controversy on the no deal Brexit
+# DATASET - The architecture of partisan debates: The online controversy on the no deal Brexit
 
 This repostiory contains the list of Tweet IDs of the 204 648 causal Tweets identified in the paper titled "The architecture of partisan debates: The online controversy on the no deal Brexit", by Carlo R. M. A. Santagiustina and Massimo Warglien. <br><br>
 Tweets in this dataset can be freely retrieved, with their [IDs](), using the GET /2/tweets/:id API endpoint (more info at this link: https://developer.twitter.com/en/docs/twitter-api/tweets/lookup/api-reference/get-tweets-id).<br><br>
