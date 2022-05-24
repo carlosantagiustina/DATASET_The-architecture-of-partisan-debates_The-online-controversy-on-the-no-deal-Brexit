@@ -1,3 +1,5 @@
+[![DOI](https://sandbox.zenodo.org/badge/485786337.svg)](https://sandbox.zenodo.org/badge/latestdoi/485786337)
+
 # DATASET - The architecture of partisan debates: The online controversy on the no deal Brexit
 
 This repostiory contains the list of Tweet IDs of the 204 648 causal Tweets identified in the paper titled "The architecture of partisan debates: The online controversy on the no deal Brexit", by Carlo R. M. A. Santagiustina and Massimo Warglien, currently under review at PLOS ONE. <br><br>
